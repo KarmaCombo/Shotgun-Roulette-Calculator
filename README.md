@@ -44,3 +44,4 @@ This project uses the tkinter library, which is part of Python's standard librar
 
 Contact.me
 If you have any questions or feedback, feel free to reach out to the project owner
+Discord: karm.007
