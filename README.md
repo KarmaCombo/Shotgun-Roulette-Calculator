@@ -35,6 +35,7 @@ Always On Top: Toggle this checkbox to control whether the window stays on top o
 Known Issues
 If you attempt to shoot a round when there are no rounds left in that category, you will receive a warning message.
 If no rounds have been set yet, actions like shooting or inverting will be unavailable until rounds are defined.
+
 License
 This project is open-source and licensed under the MIT License.
 
